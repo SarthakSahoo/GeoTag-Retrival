@@ -22,3 +22,8 @@ The Algorithm that has been used for retriving GeoTag data from Image is:
 9. else:
 10.    retrieve latitude and longitude data from exif data and store it in respective dictionary
 ```
+## Reference:
+* https://exiftool.org/TagNames/GPS.html
+* https://www.kite.com/python/answers/how-to-get-the-exif-data-for-an-image-in-python
+* https://developer.here.com/blog/getting-started-with-geocoding-exif-image-metadata-in-python3
+* https://www.thepythoncode.com/article/extracting-image-metadata-in-python
