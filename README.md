@@ -1,2 +1,2 @@
 # GeoTag-Retrival
-How to retrieve latitude and longitude value from images is implemented here using Python
+This project work specifically focuses on how to retrieve latituge and longitude data that are stored as meta-data in images using Python programming.
